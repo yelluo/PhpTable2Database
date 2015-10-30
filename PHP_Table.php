@@ -1,4 +1,5 @@
 <?php
+//Convert a HTML table into 2D PHP array (Colspan and Rowspan allowed) for importing to database
 //PHP解析HTML表格为二维数组（可能含合并单元格）
 header("Content-type: text/html; charset=UTF-8");
 
